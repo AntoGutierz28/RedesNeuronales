@@ -13,3 +13,4 @@ Las Redes Neuronales Aritficiales(RNA) tratan de emular el comportamiento del ce
 - Generalizar: Las RNA generalizan automáticamente y pueden ofrecer, respuestas correctas a entradas que presentan pequeñas variaciones. 
 - Abstraer: Algunas RNA son capaces de abstraer la esencia de un conjunto de entradas que aparentemente no presentan aspectos comunes o relativos.
 
+![](https://www.researchgate.net/profile/German-Vargas-Velasquez/publication/286626037/figure/fig1/AS:389121961938961@1469785313533/Figura-1-Estructura-jerarquica-de-un-sistema-basado-en-redes-neuronales-artificiales.png)
